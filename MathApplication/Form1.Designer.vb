@@ -153,7 +153,7 @@ Partial Class MathApplication
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(651, 450)
         Me.Controls.Add(Me.txtMode)
         Me.Controls.Add(Me.txtMedian)
         Me.Controls.Add(Me.txtMean)
